@@ -1,0 +1,45 @@
+Origin: eyedeekay.github.io/i2p-debs
+Label: eyedeekay.github.io/i2p-debs
+Codename: rolling
+Date: Wed, 02 May 2018 07:58:27 UTC
+Architectures: amd64 i386 armhf
+Components: main
+MD5Sum:
+ a0e0ffc03ebb6dce8f431008fc405738 2999 main/binary-amd64/Packages
+ 72e68b2b39208ff5202565a2d5d39758 1160 main/binary-amd64/Packages.gz
+ c96ed94f9b98a7bb3b159e02fb8712e2 109 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
+ 38d2fc3824045ac183132ae0576d8286 108 main/binary-i386/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-armhf/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-armhf/Packages.gz
+ cc6fe477145156a0554ca26359bfb5af 109 main/binary-armhf/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ 89556c37653e5a85f4372eba1bce3f2c 110 main/source/Release
+SHA1:
+ 0d544aeeb99f63c6e21467eb4713450759bde632 2999 main/binary-amd64/Packages
+ f319ff13d1e0982a53072340ddcd82662a02f77e 1160 main/binary-amd64/Packages.gz
+ a75a36ba1e141c2849c053c5a7b14f183f1ddd5d 109 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
+ e272010005b16f13377b7978eb394f99c0ad967f 108 main/binary-i386/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-armhf/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-armhf/Packages.gz
+ 09fdb6a3b020f439ac05ae1ce0ac58fbe73177a5 109 main/binary-armhf/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ 4a4a407c2b33aeb14f0557caaba6f6a7bef96450 110 main/source/Release
+SHA256:
+ 1dca9221b239e5f5c7a67907084bf99a7169e24497c0f267331d0bb80b08e10d 2999 main/binary-amd64/Packages
+ b0e5828982404a2b668f69e58e15c33ecc36090894048ae53d3e981ca213e37e 1160 main/binary-amd64/Packages.gz
+ 3f9bbd2be4da0556bf166318d7c7f4d03c50286e20b76a00632bcbd7239363cd 109 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
+ acc52e814b2b79f0e3a4da2ac828aaac1463240891485abc86b8e982d98c721b 108 main/binary-i386/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-armhf/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-armhf/Packages.gz
+ f2442805ee29b2bf04caf3eea7bcc813594d495317121e9e662bdb7c26d194e2 109 main/binary-armhf/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ 1ee375147a9d71b32d82d7eb487f0782daac24f852f52d51fa267c31909b1bd1 110 main/source/Release

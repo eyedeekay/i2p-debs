@@ -1,0 +1,95 @@
+Package: apt-transport-i2p
+Installed-Size: 108
+Maintainer: problemsolver@openmailbox.org
+Architecture: amd64
+Version: 0.1-1
+Provides: apt-transport-i2p
+Priority: extra
+Section: net
+Filename: pool/main/a/apt-transport-i2p/apt-transport-i2p_0.1-1_amd64.deb
+Size: 20392
+SHA256: 9a64a21fa87093fc37350281c9b3a85a4005117e42d6cd75dcadb5e0482d68c8
+SHA1: e584eb7f41bfd5f243764ba1a821d051ec963b9f
+MD5sum: 2d61edca830924d39bee9ae1df27aa2e
+Description: Package created with checkinstall 1.6.2
+
+Package: cheaters-i2p-browser
+Installed-Size: 185916
+Maintainer: problemsolver@openmailbox.org
+Architecture: amd64
+Version: 0.7.5.3-1
+Provides: cheaters-i2p-browser
+Priority: extra
+Section: net
+Filename: pool/main/c/cheaters-i2p-browser/cheaters-i2p-browser_0.7.5.3-1_amd64.deb
+Size: 67556672
+SHA256: 1b8470a0072a28c242d71471d5a4163e8470d3ed5fe3d40a10f3505993f953d5
+SHA1: b4739eabbf0840675c14f9deb946e432f206ce70
+MD5sum: 0034cd8e1dc4241b09015b82d0c33813
+Description: cheaters-i2p-browser
+ A modified TorBrowser that uses i2p instead.
+
+Package: di-i2p-browser
+Installed-Size: 185908
+Maintainer: problemsolver@openmailbox.org
+Architecture: amd64
+Version: 0.7.5.3-1
+Provides: di-i2p-browser
+Priority: extra
+Section: net
+Filename: pool/main/d/di-i2p-browser/di-i2p-browser_0.7.5.3-1_amd64.deb
+Size: 67656240
+SHA256: 085fb08bd6801d8628b9d9328604c48567f9ecc2d5e294eb8ec0fa236231ca4e
+SHA1: 63bbec1259e1ffbdde9cc2ec2abc35c54a316500
+MD5sum: 944ab87479cd5fcd20840e11d9bd29b0
+Description: cheaters-i2p-browser
+ A modified TorBrowser that uses i2p instead.
+
+Package: i2pdig
+Installed-Size: 3664
+Maintainer: idk@fireaxe
+Architecture: amd64
+Version: 1.0-1
+Provides: i2pdig
+Priority: extra
+Section: net
+Filename: pool/main/i/i2pdig/i2pdig_1.0-1_amd64.deb
+Size: 1088084
+SHA256: 50337f839370ab0154a7b0696399e22bd13497dcb0d344aa29a3c1b31ddce2ca
+SHA1: b570653ec15a4db4517cb1c6e7193d1890c2b342
+MD5sum: 76d12746913fc9c45e3dd3eb281f62d5
+Description: Package created with checkinstall 1.6.2
+
+Package: i2prpccurl
+Installed-Size: 60
+Maintainer: ex@ex.org
+Architecture: amd64
+Version: 0.1-1
+Provides: i2prpccurl
+Priority: extra
+Section: net
+Filename: pool/main/i/i2prpccurl/i2prpccurl_0.1-1_amd64.deb
+Size: 2304
+SHA256: ceccb77b96c8c3b28bfc86f56965bb18843f792ede149a716f73b1a31df6dbc0
+SHA1: 16deb5baefa8d48419f03e29e457bc014780a0a5
+MD5sum: 8a198ff242c6447c2b6bf3cec383937d
+Description: Package created with checkinstall 1.6.2
+
+Package: si-i2p-plugin
+Installed-Size: 5240
+Maintainer: problemsolver@openmailbox.org
+Architecture: amd64
+Version: 0.20-1
+Provides: si-i2p-plugin
+Priority: extra
+Section: net
+Filename: pool/main/s/si-i2p-plugin/si-i2p-plugin_0.20-1_amd64.deb
+Size: 1516416
+SHA256: 3fb30d00f61929c0aa42e60e2a38e48886f81e005f42bc885ce1d22e5cbf1295
+SHA1: bae360713a14d7de688ae4d592224edfee00aa54
+MD5sum: fe0c7dabd621cc200ca25108cd1b5dcc
+Description: si-i2p-plugin
+ Destination-isolating http proxy for i2p. Keeps multiple eepSites
+ from sharing a single reply destination, to limit the use of i2p
+ metadata for fingerprinting purposes
+
