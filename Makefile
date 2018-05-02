@@ -49,7 +49,7 @@ run-i2pd: network
 		--hostname i2p-debs-i2pd \
 		--link i2p-debs \
 		-p :4567 \
-		-p 127.0.0.1:7068:7068 \
+		-p 127.0.0.1::7068 \
 		-v $(PWD)/i2pd_dat:/var/lib/i2pd \
 		--restart always \
 		-t eyedeekay/i2p-debs-i2pd
