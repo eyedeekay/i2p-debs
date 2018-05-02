@@ -30,7 +30,7 @@ run-i2p-debs: network
 		--hostname i2p-debs \
 		--link i2p-debs-i2pd \
 		--cap-drop all \
-		-p 127.0.0.1:45291:45291 \
+		-p 127.0.0.1::45291 \
 		--restart always \
 		-t eyedeekay/i2p-debs
 
