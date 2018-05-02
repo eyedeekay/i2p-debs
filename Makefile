@@ -57,7 +57,7 @@ run-i2pd: network
 surf:
 	surf http://127.0.0.1:45291
 
-dylynx = $(shell docker port i2p-debs-i2pd | sed 's|7068/tcp -> ||g')
+dylynx = $(shell docker port i2p-debs-i2pd 2>&1 | sed 's|7068/tcp -> ||g')
 
 echo:
 	@echo $(dylynx)
