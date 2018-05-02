@@ -10,7 +10,7 @@ RUN chown darkhttpd /www
 
 USER darkhttpd
 
-RUN git clone https://github.com/eyedeekay/apt-now /www
+RUN git clone https://github.com/eyedeekay/i2p-debs /www
 
 CMD darkhttpd /www --port 45291 --addr 0.0.0.0
 
